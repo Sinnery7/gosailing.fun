@@ -1,6 +1,7 @@
 window.addEventListener('DOMContentLoaded', () => {
     "use strict";
-    alert('Test');
+    alert('Test2');
+    aler('p');
 
 })
 
